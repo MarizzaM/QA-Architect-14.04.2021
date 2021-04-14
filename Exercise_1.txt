@@ -1,0 +1,5 @@
+1) Stack - C
+2) Queue - B
+3) Set - D
+4) HashMap - E
+5) ArrayList - A
